@@ -1,6 +1,6 @@
 # Public disclosure scope / 公开范围
 
-This repository is the public overview of Readable/Unreadable, my master's thesis, presented as World Chronicle until 9 November 2026. The engineering project, its history and the thesis manuscript stay in private repositories.
+This repository is the public overview of Unreadable (不可读取), my master's thesis. It was presented as World Chronicle until 9 November 2026 and as Readable/Unreadable until 15 November 2026. The engineering project, its history and the thesis manuscript stay in private repositories.
 
 | Material | Public here | Never published here |
 |---|---|---|
@@ -19,7 +19,7 @@ The demo uses a synthetic answer set and automated input. It shows a prototype r
 
 ---
 
-本仓是《Readable/Unreadable》（硕士毕设，2026 年 11 月 9 日之前以 World Chronicle 介绍）的公开概览；工程项目、开发记录和论文稿保留在私有仓库。
+本仓是《不可读取》（Unreadable，硕士毕设）的公开概览，2026 年 11 月 9 日之前以 World Chronicle 介绍，11 月 15 日之前以 Readable/Unreadable 介绍；工程项目、开发记录和论文稿保留在私有仓库。
 
 公开：研究问题、玩法结构与作者职责（与项目网页一致）；两张 UE 实机静帧、一张重新标注的楼层平面，以及两张离线开发局的带界面实机画面（2026 年 11 月 9 日加入，其中可见开场的一条任务说明）；一段模糊了开发面板的中期演示视频（720p），其中可以看到三道空间问题的示例作答。
 

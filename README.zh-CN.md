@@ -4,11 +4,11 @@
 <a id="world-chronicle--being-read-and-keeping-your-own-explanation"></a>
 <a id="被系统理解也保留自己的解释"></a>
 
-# Readable/Unreadable — 被系统理解，也保留自己的解释
+# 不可读取（Unreadable）— 被系统理解，也保留自己的解释
 
 [项目网页](https://ruixiaozhang.com/#work-aidirector)
 
-《Readable/Unreadable》是我的硕士毕业设计：一场发生在虚构医院里的互动叙事。系统试着理解玩家，玩家也能核对、修正或拒绝这份解读。它也是 World Chronicle（我开发中的叙事游戏系统）的第一款游戏。2026 年 11 月 9 日之前，本概览用 World Chronicle 指称这项毕设。
+《不可读取》（Unreadable）是我的硕士毕业设计：一场发生在虚构医院里的互动叙事。系统试着理解玩家，玩家也能核对、修正或拒绝这份解读。它也是 World Chronicle（我开发中的叙事游戏系统）的第一款游戏。2026 年 11 月 9 日之前，本概览用 World Chronicle 指称这项毕设；11 月 15 日之前用 Readable/Unreadable。
 
 一班工作发生的病房，UE 实机静帧。呈现场景，不作为完整任务已经可玩的证据。
 

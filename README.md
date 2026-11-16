@@ -4,13 +4,13 @@
 <a id="world-chronicle--being-read-and-keeping-your-own-explanation"></a>
 <a id="被系统理解也保留自己的解释"></a>
 
-# Readable/Unreadable — being read, and keeping your own explanation
+# Unreadable — being read, and keeping your own explanation
 
 [Project page](https://ruixiaozhang.com/index_EN#work-aidirector)
 
-Readable/Unreadable is my master's thesis work: an interactive narrative set in a fictional hospital, where a system tries to read the player, and the player can inspect, correct or refuse that reading. It is also the first game for World Chronicle, a narrative game system that I am developing. Until 9 November 2026, this overview used the name World Chronicle for the thesis.
+Unreadable (Chinese title 不可读取) is my master's thesis work: an interactive narrative set in a fictional hospital, where a system tries to read the player, and the player can inspect, correct or refuse that reading. It is also the first game for World Chronicle, a narrative game system that I am developing. This overview called the thesis World Chronicle until 9 November 2026, and Readable/Unreadable until 15 November 2026.
 
-![A ward in the Readable/Unreadable hospital prototype](docs/media/ward.webp)
+![A ward in the Unreadable hospital prototype](docs/media/ward.webp)
 
 A UE runtime still of the ward where a shift happens. It shows the setting, not evidence that complete tasks are playable.
 
